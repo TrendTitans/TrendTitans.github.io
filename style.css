@@ -97,6 +97,7 @@ body {
     margin: 0px;
     padding: 0px;
     background-image: url("bg3.png");
+background-repeat: repeat;
   line-height: 1.8;
 
 
@@ -105,7 +106,7 @@ body {
 
     .container {
 
-        margin-top: 550px;
+        margin-top: 750px;
 
     }
   }
