@@ -98,18 +98,14 @@ body {
     padding: 10px;
     background-image: url("bg3.png");
   line-height: 1.8;
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 }
 
 
     .container {
 
-        margin-top: 250px;
+        margin-top: 350px;
 
     }
   }
